@@ -9,7 +9,7 @@
     "clsx": "latest",
     "dotenv": "^8.2.0",
     "firebase": "^7.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "markdown-it": "^10.0.0",
     "next": "latest",
     "prop-types": "latest",
